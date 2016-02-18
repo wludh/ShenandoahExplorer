@@ -7,7 +7,7 @@
     <div id="about" class="jumbotron pageDiv">
         <h1>Data</h1>
         <p>
-            Contents...
+            Contents.
         </p>
         <ul>
             <li><a href="RDF.aspx">RDF</a></li>
