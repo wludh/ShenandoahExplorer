@@ -7,7 +7,7 @@
     <div id="about" class="jumbotron">
         <h1>Shenandoah Explorer</h1>
         <p>
-            Contents... 
+            Contents...
         </p>
     </div>
 </asp:Content>
